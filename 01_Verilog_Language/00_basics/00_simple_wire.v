@@ -1,4 +1,4 @@
-module simple_wire (
+module module_wire (
     input A,
     output B
 );

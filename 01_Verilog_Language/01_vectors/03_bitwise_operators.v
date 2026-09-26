@@ -1,4 +1,4 @@
-module vectorgates(
+module vectorgates (
     input [2:0] a,
     input [2:0] b,
     output wire [2:0] out_or_bitwise,

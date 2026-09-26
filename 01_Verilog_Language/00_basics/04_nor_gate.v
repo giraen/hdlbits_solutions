@@ -1,4 +1,4 @@
-module nor2 (
+module norgate (
     input a, b,
     output out
 );

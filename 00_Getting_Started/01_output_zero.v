@@ -1,4 +1,4 @@
-module top_module(
+module zero (
     output zero
 );
 

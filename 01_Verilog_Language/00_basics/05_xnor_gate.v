@@ -1,4 +1,4 @@
-module xnor2 (
+module xnorgate (
     input a, b,
     output out
 );

@@ -1,4 +1,4 @@
-module four_wires (
+module wire4 (
     input a,
     input b,
     input c,

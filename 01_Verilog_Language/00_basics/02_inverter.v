@@ -1,4 +1,4 @@
-module inverter (
+module notgate (
     input in,
     output out
 );

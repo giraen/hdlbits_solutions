@@ -1,6 +1,4 @@
-// TODO: Implement mod_a based on the output waveform
-
-module m_name (
+module module_name (
     input a, 
     input b, 
     input c,

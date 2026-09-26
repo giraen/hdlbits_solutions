@@ -1,5 +1,5 @@
 // synthesis verilog_input_version verilog_2001
-module top_module(
+module alwaysblock1 (
     input a, 
     input b,
     output wire out_assign,

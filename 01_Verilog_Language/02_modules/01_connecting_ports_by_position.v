@@ -1,6 +1,4 @@
-// TODO: Implement mod_a based on the output waveform
-
-module module_pos(
+module module_pos (
     input a, b, c, d,
     output wire out1,
     output wire out2,

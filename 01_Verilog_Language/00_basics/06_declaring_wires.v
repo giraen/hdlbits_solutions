@@ -1,5 +1,5 @@
 `default_nettype none
-module top_module(
+module wire_decl (
     input a,
     input b,
     input c,

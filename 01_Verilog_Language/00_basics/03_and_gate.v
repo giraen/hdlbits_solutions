@@ -1,4 +1,4 @@
-module and2 (
+module andgate (
     input a, b,
     output out
 );
